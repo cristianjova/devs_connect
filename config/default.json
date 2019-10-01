@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://jova:contraseña@devconector-rshen.mongodb.net/test?retryWrites=true&w=majority"
+}
