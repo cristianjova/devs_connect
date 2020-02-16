@@ -118,9 +118,9 @@ const AddExperience = ({ addExperience, history }) => {
         </div>
 
         <input type='submit' value='Guardar' className='btn btn-primary my-1' />
-        <a href='dashboard.html' className='btn'>
+        <Link to='/dashboard' className='btn'>
           Volver
-        </a>
+        </Link>
       </form>
     </Fragment>
   );
