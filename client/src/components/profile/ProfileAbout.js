@@ -14,11 +14,7 @@ const ProfileAbout = ({
         <h2 className='text-primary'>
           Biógrafia de {name.trim().split(' ')[0]}
         </h2>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat facere
-          dignissimos nobis et minima dolorem sed maxime error molestiae
-          repellendus.
-        </p>
+        <p>{bio}</p>
         <div className='line'></div>
       </Fragment>
     )}
