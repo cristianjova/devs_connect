@@ -1,1 +1,5 @@
+# Node stuffs
 node_modules/
+
+# Configs
+config/default.json
