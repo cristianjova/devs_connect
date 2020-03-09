@@ -3,4 +3,4 @@ node_modules/
 
 # Configs
 config/default.json
-config/production.json
+# config/production.json
